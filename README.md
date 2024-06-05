@@ -17,7 +17,7 @@ The sales data was collected in a csv file format, and was imported into the Exc
 
 ##	Data Cleaning
 
- #   Steps
+    Steps
 
 1.   Remove Duplicates  : Use the "Remove Duplicates" feature to eliminate duplicate records.
 2.   Handle Missing Values  : Identify and handle missing values using techniques such as imputation or deletion.
@@ -35,7 +35,7 @@ The sales data was collected in a csv file format, and was imported into the Exc
 
 ##	Reporting
 
-  #  Steps
+    Steps
 
 1.   Summary Report  : Create a summary report that includes key findings, charts, and recommendations.
 2.   Dashboard  : Develop an interactive dashboard using Excel's built-in features such as slicers and pivot charts.
